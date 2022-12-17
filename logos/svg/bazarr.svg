@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   width="400"
+   height="400"
+   viewBox="0, 0, 400,400"
+   version="1.1"
+   sodipodi:docname="bazarr.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.94"
+     inkscape:cx="199.74227"
+     inkscape:cy="199.74227"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg" />
+  <g
+     id="svgg">
+    <defs
+       id="defs255">
+      <linearGradient
+         id="linear-gradient"
+         x1="92.670265"
+         y1="72.968857"
+         x2="308.00317"
+         y2="347.02737"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           stop-color="#aa5cc3"
+           id="stop250" />
+        <stop
+           offset="1"
+           stop-color="#00a4dc"
+           id="stop252" />
+      </linearGradient>
+    </defs>
+    <path
+       id="path0"
+       d="M176.953 0.863 C 39.359 17.349,-40.657 164.469,20.386 288.734 C 68.945 387.589,189.433 428.394,288.734 379.614 C 387.553 331.072,428.389 210.561,379.645 111.328 C 351.191 53.401,297.845 13.877,232.422 2.250 C 221.703 0.345,188.255 -0.491,176.953 0.863 M226.563 11.312 C 380.721 33.022,444.905 221.738,335.996 333.072 C 231.691 439.701,50.285 390.024,14.917 245.146 C -12.997 130.801,66.814 21.001,185.938 9.866 C 193.050 9.201,217.840 10.084,226.563 11.312 M146.875 84.455 C 113.856 85.400,80.426 87.393,75.334 88.719 C 58.265 93.165,43.007 109.633,40.635 126.172 C 33.322 177.144,36.374 266.593,45.992 283.215 C 56.717 301.749,67.523 306.231,106.250 308.209 C 170.256 311.478,239.628 311.184,309.766 307.347 C 334.843 305.975,353.032 292.717,358.190 272.051 C 364.955 244.940,364.220 139.199,357.123 118.616 C 352.777 106.012,340.960 94.429,327.681 89.757 C 314.744 85.206,218.850 82.393,146.875 84.455 M313.597 240.733 C 318.339 242.893,318.961 249.931,314.726 253.495 L 312.380 255.469 200.367 255.469 C 115.187 255.469,87.864 255.245,86.306 254.535 C 81.708 252.440,80.643 245.800,84.315 242.127 L 86.599 239.844 199.122 239.844 C 281.603 239.844,312.166 240.081,313.597 240.733 M277.410 273.269 C 281.408 276.841,280.579 283.066,275.774 285.550 C 273.748 286.598,264.477 286.717,198.907 286.535 L 124.344 286.328 122.340 284.445 C 118.692 281.018,119.176 274.306,123.242 271.938 C 124.144 271.412,150.180 271.133,199.792 271.118 L 274.975 271.094 277.410 273.269 "
+       style="fill:url(#linear-gradient)"
+       stroke="none"
+       fill="#00000000"
+       fill-rule="evenodd" />
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 371.62 371.62"
+   style="enable-background:new 0 0 371.62 371.62;"
+   xml:space="preserve"
+   sodipodi:docname="nextcloud.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview222"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="2.1635004"
+   inkscape:cx="196.20981"
+   inkscape:cy="229.027"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+  <defs
+   id="defs255">
+    <linearGradient
+   id="linear-gradient"
+   x1="93.617188"
+   y1="63.674934"
+   x2="320.72037"
+   y2="414.84195"
+   gradientUnits="userSpaceOnUse">
+      <stop
+   offset="0"
+   stop-color="#aa5cc3"
+   id="stop250" />
+      <stop
+   offset="1"
+   stop-color="#00a4dc"
+   id="stop252" />
+    </linearGradient>
+  </defs>
+<g
+   id="g189">
+	<path
+   style="fill:url(#linear-gradient)"
+   d="M62.513,153.087c-0.009-0.525-0.02-1.049-0.02-1.575c0-50.155,40.659-90.814,90.814-90.814   c43.222,0,79.388,30.196,88.562,70.643c8.555-4.789,18.409-7.531,28.91-7.531c32.766,0,59.328,26.562,59.328,59.328   c0,1.339-0.06,2.664-0.148,3.981c24.325,9.03,41.661,32.444,41.661,59.911c0,35.286-28.605,63.892-63.892,63.892H79.865   C35.757,310.921,0,275.164,0,231.056C0,192.907,26.749,161.011,62.513,153.087z"
+   id="path187" />
+</g>
+<g
+   id="g191">
+</g>
+<g
+   id="g193">
+</g>
+<g
+   id="g195">
+</g>
+<g
+   id="g197">
+</g>
+<g
+   id="g199">
+</g>
+<g
+   id="g201">
+</g>
+<g
+   id="g203">
+</g>
+<g
+   id="g205">
+</g>
+<g
+   id="g207">
+</g>
+<g
+   id="g209">
+</g>
+<g
+   id="g211">
+</g>
+<g
+   id="g213">
+</g>
+<g
+   id="g215">
+</g>
+<g
+   id="g217">
+</g>
+<g
+   id="g219">
+</g>
+</svg>

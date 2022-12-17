@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   width="400"
+   height="400"
+   viewBox="0, 0, 400,400"
+   version="1.1"
+   sodipodi:docname="wikijs.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview329"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.94"
+     inkscape:cx="199.74227"
+     inkscape:cy="199.74227"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg" />
+  <defs
+     id="defs255">
+    <linearGradient
+       id="linear-gradient"
+       x1="177.83208"
+       y1="83.011429"
+       x2="395.48331"
+       y2="322.99548"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2141989,0,0,1.2141989,-41.019741,-41.007868)">
+      <stop
+         offset="0"
+         stop-color="#aa5cc3"
+         id="stop250" />
+      <stop
+         offset="1"
+         stop-color="#00a4dc"
+         id="stop252" />
+    </linearGradient>
+  </defs>
+  <g
+     id="svgg">
+    <path
+       id="path0"
+       d="M 21.156959,51.776359 C -0.15951796,64.316606 -1.5097069,78.05648 13.804985,126.55159 c 6.117133,19.36648 17.496607,55.42818 25.289336,80.13712 43.096773,136.65446 41.260911,132.07571 55.969709,139.68146 20.4629,10.58175 45.36613,-2.57046 52.96944,-27.97515 1.39997,-4.67466 7.06542,-21.06635 12.59245,-36.42597 11.40134,-31.68574 24.66645,-69.02599 32.78216,-92.27912 l 5.51003,-15.78458 2.88737,7.28519 c 1.58818,4.00685 7.05328,19.30576 12.14442,33.99757 5.09235,14.69181 14.14299,40.37211 20.11321,57.06735 5.96899,16.69523 13.15948,36.8218 15.97764,44.72502 11.89307,33.36254 39.91922,43.4489 62.81051,22.60718 5.27205,-4.79974 12.16749,-24.11522 37.04156,-103.75816 5.63147,-18.03086 11.85181,-37.70089 13.82367,-43.71117 C 379.5472,143.85392 396.08216,87.994704 396.03846,82.922989 395.81626,57.26211 368.28794,39.570017 344.41072,49.74379 c -17.63502,7.514677 -18.094,8.699736 -54.07677,139.40461 -5.7796,20.9935 -5.94837,20.87694 -17.74552,-12.40547 -5.76017,-16.25205 -12.56575,-35.28705 -15.12286,-42.29904 C 250.1561,114.39988 244.04868,97.466668 238.16224,80.925634 221.42815,33.904565 178.02539,33.392172 160.3843,80.006485 154.93497,94.405667 126.52393,175.24703 119.91747,195.15383 113.93512,213.17618 115.90576,218.29889 82.896551,98.884845 69.584071,50.72122 49.282664,35.231684 21.156959,51.776359"
+       style="fill:url(#linear-gradient);stroke-width:1.21419"
+       stroke="none"
+       fill="#000000"
+       fill-rule="evenodd" />
+  </g>
+</svg>

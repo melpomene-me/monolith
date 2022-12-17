@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   width="400"
+   height="400"
+   viewBox="0, 0, 400,400"
+   version="1.1"
+   sodipodi:docname="freshrss.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.01"
+     inkscape:cx="323.63184"
+     inkscape:cy="216.66667"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg" />
+  <defs
+     id="defs255">
+    <linearGradient
+       id="linear-gradient"
+       x1="130.07089"
+       y1="46.69302"
+       x2="403.94101"
+       y2="415.53281"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#aa5cc3"
+         id="stop250" />
+      <stop
+         offset="1"
+         stop-color="#00a4dc"
+         id="stop252" />
+    </linearGradient>
+  </defs>
+  <g
+     id="svgg">
+    <path
+       id="path0"
+       d="M175.000 1.157 C 77.879 13.626,0.083 98.645,0.006 192.397 L 0.000 200.028 18.945 199.819 L 37.891 199.609 38.070 194.141 C 41.184 99.488,128.033 26.155,221.332 39.400 C 347.109 57.257,405.125 203.439,325.626 302.192 C 297.485 337.148,249.187 361.599,208.072 361.704 C 199.271 361.727,200.000 359.954,200.000 381.334 L 200.000 400.000 207.772 400.000 C 291.258 400.000,372.038 335.235,393.836 250.824 C 429.246 113.702,314.859 -16.800,175.000 1.157 M177.734 67.098 C 115.276 78.520,68.505 130.064,65.823 190.430 L 65.398 200.000 84.652 200.000 L 103.906 200.000 103.906 195.024 C 103.906 122.859,191.996 78.840,253.814 120.114 C 328.700 170.113,297.381 289.844,207.813 295.976 L 200.391 296.484 200.181 315.544 L 199.972 334.604 209.556 334.178 C 279.230 331.082,334.053 271.765,333.930 199.609 C 333.819 134.104,291.282 81.877,226.577 67.804 C 215.776 65.455,188.847 65.065,177.734 67.098 M186.719 149.626 C 128.331 165.543,139.531 251.172,200.000 251.172 C 258.142 251.172,271.963 171.456,217.376 150.948 C 210.662 148.425,193.792 147.698,186.719 149.626 "
+       style="fill:url(#linear-gradient)"
+       stroke="none"
+       fill="#000000"
+       fill-rule="evenodd" />
+  </g>
+</svg>

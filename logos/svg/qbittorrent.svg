@@ -1,16 +1,124 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
-  <title>
-    qbittorrent-new-light
-  </title>
-  <defs>
-    <linearGradient x1="34.012%" y1="0%" x2="76.373%" y2="76.805%" id="a">
-      <stop stop-color="#72B4F5" offset="0%"/>
-      <stop stop-color="#356EBF" offset="100%"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 31.521 31.522;"
+   xml:space="preserve"
+   sodipodi:docname="qbittorrent.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview269"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.515625"
+   inkscape:cx="255.6701"
+   inkscape:cy="417.97938"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+ <defs
+   id="defs255">
+    <linearGradient
+   id="linear-gradient"
+   x1="6.715086"
+   y1="10.29713"
+   x2="27.285324"
+   y2="37.926109"
+   gradientUnits="userSpaceOnUse">
+      <stop
+   offset="0"
+   stop-color="#aa5cc3"
+   id="stop250" />
+      <stop
+   offset="1"
+   stop-color="#00a4dc"
+   id="stop252" />
     </linearGradient>
   </defs>
-  <g fill="none" fill-rule="evenodd">
-    <circle stroke="#DAEFFF" stroke-width="32" fill="url(#a)" cx="512" cy="512" r="496"/>
-    <path d="M712.898 332.399q66.657 0 103.38 45.671 37.03 45.364 37.03 128.684t-37.34 129.61q-37.03 45.98-103.07 45.98-33.02 0-60.484-12.035-27.156-12.344-45.672-37.649h-3.703l-10.8 43.512h-36.724V196h51.227v116.65q0 39.191-2.469 70.359h2.47q35.796-50.61 106.155-50.61zm-7.406 42.894q-52.46 0-75.605 30.242-23.145 29.934-23.145 101.219t23.762 102.145q23.761 30.55 76.222 30.55 47.215 0 70.36-34.254 23.144-34.562 23.144-99.058 0-66.04-23.144-98.442-23.145-32.402-71.594-32.402z" fill="#fff"/>
-    <path d="M317.273 639.45q51.227 0 74.68-27.466 23.453-27.464 24.996-92.578v-11.418q0-70.976-24.07-102.144-24.07-31.168-76.223-31.168-45.055 0-69.125 35.18-23.762 34.87-23.762 98.75 0 63.879 23.454 97.515 23.761 33.328 70.05 33.328zm-7.715 42.894q-65.421 0-102.144-45.98-36.723-45.981-36.723-128.376 0-83.011 37.032-129.609 37.03-46.598 103.07-46.598 69.433 0 106.773 52.461h2.778l7.406-46.289h40.426V828h-51.227V683.27q0-30.86 3.395-52.461h-4.012q-35.488 51.535-106.774 51.535z" fill="#c8e8ff"/>
-  </g>
+<g
+   id="g236"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-13.435823)">
+	<path
+   d="m 29.34,17.858 c -0.551,-2.012 -2.118,-3.475 -3.984,-3.475 -0.021,0 -0.044,0.006 -0.063,0.007 -0.302,-3.822 -2.972,-6.825 -6.255,-6.825 -1.851,0 -3.5,0.966 -4.653,2.475 -0.727,-0.719 -1.652,-1.17 -2.671,-1.17 -2.286,0 -4.139,2.178 -4.2,4.885 -0.401,-0.181 -0.833,-0.292 -1.287,-0.292 -2.015,0 -3.647,1.947 -3.647,4.346 -1.426,0 -2.58,1.375 -2.58,3.074 0,1.697 1.154,3.072 2.579,3.072 0.006,0 6.594,0 13.182,0 L 10.3,17.715 h 2.73 v -2.339 h 5.46 v 2.339 h 2.729 l -5.46,6.241 c 6.589,0 13.177,0 13.182,0 1.426,0 2.58,-1.375 2.58,-3.073 0,-1.535 -0.947,-2.795 -2.181,-3.025 z"
+   fill="url(#linear-gradient)"
+   id="path234"
+   style="fill:url(#linear-gradient)" />
+</g>
+<g
+   id="g238"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g240"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g242"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g244"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g246"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g248"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g250"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g252"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g254"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g256"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g258"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g260"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g262"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g264"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
+<g
+   id="g266"
+   transform="matrix(16.152153,0,0,16.152153,1.0296071,-16.734792)">
+</g>
 </svg>
