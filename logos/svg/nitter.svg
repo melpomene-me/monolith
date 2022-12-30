@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 128 128"
+   aria-hidden="true"
+   role="img"
+   class="iconify iconify--noto"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="nitter.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0175"
+     inkscape:cx="580.34398"
+     inkscape:cy="482.06388"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs255">
+    <linearGradient
+       id="linear-gradient"
+       x1="56.660439"
+       y1="26.737898"
+       x2="145.56583"
+       y2="137.73007"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#aa5cc3"
+         id="stop250" />
+      <stop
+         offset="1"
+         stop-color="#00a4dc"
+         id="stop252" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M108.54 15.2H86.65c-1.31 0-2.36 1.06-2.36 2.36v62.91L43.35 16.29a2.35 2.35 0 0 0-1.99-1.09h-21.9c-1.3 0-2.36 1.06-2.36 2.36v100.97c0 1.3 1.06 2.36 2.36 2.36h21.9c1.3 0 2.37-1.06 2.37-2.36V55.61l40.93 64.18c.43.68 1.19 1.09 2 1.09h21.89c1.3 0 2.36-1.06 2.36-2.36V17.56a2.38 2.38 0 0 0-2.37-2.36z"
+     style="fill:url(#linear-gradient)"
+     fill="#40C0E7"
+     id="path6" />
+</svg>
